@@ -41,10 +41,10 @@ We will help you with product implementation so that you can fully focus on mark
 - **Hamster Kombat Source Code on GitHub**
 - Explore the demo of our Hamster Kombat Clone script before making a purchase.
 
-🔗 [View Demo](https://hamsterkombatclone.net/demo)
-🔗 [Demo on Telegram](https://hamsterkombatclone.net/telegram-demo)
-🔗 [Admin Area Demo](https://hamsterkombatclone.net/admin-demo)
-🔗 [Documentation](https://hamsterkombatclone.net/docs)
+🔗 [View Demo](https://hamsterkombatclone.net/demo.php)
+🔗 [Demo on Telegram](https://t.me/HamsterKombatScriptBot)
+🔗 [Admin Area Demo](https://hamsterkombatclone.net/admin.php)
+🔗 [Documentation](https://hamsterkombatclone.net/video.php)
 🔗 [Buy Now](https://hamsterkombatclone.net/order-form.php)
 
 ### **Functionality**
