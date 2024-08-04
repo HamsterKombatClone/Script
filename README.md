@@ -117,7 +117,7 @@ After selecting your package and completing payment, please contact us with proo
 🔗 [Get started Now](https://hamsterkombatclone.net/order-form.php)
 
 ### **Admin Area Preview**
-![Admin Area](https://hamsterkombatclone.net/admin-preview.jpg)
+![Admin Area](https://hamsterkombatclone.net/preview.png)
 
 ### **Supported Networks**
 TON, Tron, Ethereum, Arbitrum, Optimism, Polygon, Base, BSC (BNB Chain, Binance Smart Chain), Avalanche, Celo, Blast, Polkadot, Solana, and others. Write to us if the network you need is not in this list.
