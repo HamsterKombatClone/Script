@@ -11,20 +11,8 @@ Are you ready to bring the excitement of the popular Telegram game bot Hamster K
 - **CI/CD Ready**: Configuration for automatic deployment to ensure smooth and continuous updates.
 
 ### 💻 Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/hamster-kombat-clone.git
-   cd hamster-kombat-clone
-   ```
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-3. **Configure Environment Variables**: Create a `.env` file and add your configuration details.
-4. **Start the Application**:
-   ```bash
-   npm start
-   ```
+
+🔗 https://hamsterkombatclone.net/video.php
 
 ### 📂 Repository Highlights
 - **Detailed Documentation**: Step-by-step instructions to get you up and running quickly.
@@ -41,10 +29,6 @@ Our script offers a complete solution for creating a fun and engaging Telegram g
 - **Payment Gateway Integration**: Available for free.
 - **CI/CD Configuration**: For automatic deployment to your server.
 
-👉 **Get Started Today**: [Explore the Repository](https://github.com/YOUR-USERNAME/hamster-kombat-clone)
+👉 **Get Started Today**: [Order Now](https://hamsterkombatclone.net/order-form.php)
 
-For more details, check out our comprehensive [README.md](https://github.com/YOUR-USERNAME/hamster-kombat-clone/blob/main/README.md) file.
-
----
-
-Feel free to customize the links and content according to your specific needs. This post can be shared on social media, your website, or any other platform to promote your GitHub repository.
+For more details, check out our comprehensive [README.md](https://hamsterkombatclone.net) file.
