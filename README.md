@@ -1,6 +1,8 @@
 🚀 **Introducing the Hamster Kombat Clone Script!**
 
-🔗 https://hamsterkombatclone.net
+![Hamster Kombat Clone](https://hamsterkombatclone.net/image4.jpg)
+
+🔗 [Visit the Website](https://hamsterkombatclone.net)
 
 Are you ready to bring the excitement of the popular Telegram game bot Hamster Kombat to your own projects? Look no further! We are thrilled to present the **Hamster Kombat Clone Script**, now available on GitHub.
 
@@ -12,7 +14,7 @@ Are you ready to bring the excitement of the popular Telegram game bot Hamster K
 
 ### 💻 Installation
 
-🔗 https://hamsterkombatclone.net/video.php
+🔗 [Installation Video](https://hamsterkombatclone.net/video.php)
 
 ### 📂 Repository Highlights
 - **Detailed Documentation**: Step-by-step instructions to get you up and running quickly.
