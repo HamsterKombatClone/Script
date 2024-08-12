@@ -12,6 +12,11 @@ Are you ready to bring the excitement of the popular Telegram game bot Hamster K
 - **CoinPayment Integration**: Seamlessly integrate with CoinPayment wallet API for in-game transactions.
 - **CI/CD Ready**: Configuration for automatic deployment to ensure smooth and continuous updates.
 
+
+### 🚀 Example
+
+🔗 [Example](https://hamsterkombatclone.net/demo.mp4)
+
 ### 💻 Installation
 
 🔗 [Installation Video](https://hamsterkombatclone.net/video.php)
